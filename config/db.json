@@ -1,0 +1,7 @@
+{
+    "adapter":"mysql",
+    "host":"localhost",
+    "user":"bob",
+    "password":"password",
+    "database":"some_db"
+}
